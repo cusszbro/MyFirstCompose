@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Submission Compose 1</string>
+    <string name="favorite_movies" translatable="false">Favorite Movies</string>
+
+    <string name="share_message" translatable="false">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+    <string name="menu_cart" translatable="false">Keranjang</string>
+    <string name="total_order">Total movie : %d</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="vote_average">Rate: %d</string>
+    <string name="release_date">Release date: %d</string>
+    <string name="overview">Description: %d</string>
+    <string name="add_to_favorite">Tambah ke favorit</string>
+    <string name="remove_from_favorite">Pindahkan dari favorit</string>
+</resources>
